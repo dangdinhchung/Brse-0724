@@ -1,2 +1,3 @@
 login
+update category
 create category
